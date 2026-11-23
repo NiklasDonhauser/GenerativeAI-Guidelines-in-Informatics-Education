@@ -2,11 +2,11 @@
 
 <hr>
 
-**First Author¹* · Second Author¹ · Third Author¹*
+**Niklas Donhauser¹* · Michael Achmann-Denkler¹ · Markus Weinberger¹* · Christian Wolff¹*
 
-¹Group, City, Country  
+¹University of Regensburg - Media Informatics Group, Regensburg, Germany  
 
-*✉ Correspondence to: [mail](mailto:mail)*  
+*✉ Correspondence to: [Niklas Donhauser](mailto:Niklas.Donhauser@ur.de)*  
 `{mail}@mail`
 </div>
 
@@ -51,5 +51,6 @@ This repository contains the project documentation, workshop materials, analysis
 
 ## Citation
 
-TBA
+Accepted at "3rd International conference on digital skills, IT professionalism and informatics education"
 
+TBA
