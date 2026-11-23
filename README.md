@@ -2,7 +2,7 @@
 
 <hr>
 
-**Niklas Donhauser¹* · Michael Achmann-Denkler¹ · Markus Weinberger¹* · Christian Wolff¹*
+**Niklas Donhauser¹* · Michael Achmann-Denkler¹ · Markus Weinberger¹* · Christian Wolff¹
 
 ¹University of Regensburg - Media Informatics Group, Regensburg, Germany  
 
